@@ -104,4 +104,4 @@ Estruturação de projetos web com foco em organização e boas práticas.
 
 ### 🎯 Objetivo Profissional
 
-Busco minha primeira oportunidade como desenvolvedor Back-End (estágio), onde eu possa aplicar meus conhecimentos em Python, aprender arquitetura de sistemas e evoluir como profissional de tecnologia.
+Busco minha primeira oportunidade como desenvolvedor, onde eu possa aplicar meus conhecimentos, aprender arquitetura de sistemas e evoluir como profissional de tecnologia.
